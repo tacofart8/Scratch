@@ -1,7 +1,13 @@
 #### Installation
 
-#### Hello World
+#### Getting Started
+
 
 #### Building
+```bash
+python build.py
+```
+
+#### "Hello Blocks"
 
 #### Testing
