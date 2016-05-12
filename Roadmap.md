@@ -19,5 +19,5 @@
 #### Ergonomics
 - Migrate to CommonJS modules & webpack from Closure Compiler
 - Add automated test coverage and styleguide enforcement from ESLint
-- Continuous integration (CI)
+- Continuous integration (CI) & automated publishing to NPM
 - Additional documentation and examples
