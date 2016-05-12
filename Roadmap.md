@@ -7,6 +7,10 @@
 - Implement grammar from [Scratch](https://scratch.mit.edu)
 - Right-to-Left (RTL) support
 - Localization (L10N) support
+- Design and implement additional fields
+    - Keyboard (music)
+    - Slider (number)
+    - Color
 
 #### Features
 - Toolbox (palette) redesign
