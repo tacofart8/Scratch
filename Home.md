@@ -10,12 +10,12 @@ python build.py
 
 This will export multiple files including:
 ```
-msg/js/en.js
 blockly_uncompressed_vertical.js
 blockly_uncompressed_horizontal.js
 blockly_compressed_vertical.js
 blockly_compressed_horizontal.js
 blocks_compressed.js
+msg/js/en.js
 ```
 
 These can then be used in your project by updating the HTML of your application:
