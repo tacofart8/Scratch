@@ -1,4 +1,7 @@
 #### Getting Started
+Scratch Blocks is based on Google's [Blockly](https://developers.google.com/blockly) project. For a full API reference please see Google's [Custom Blocks](https://developers.google.com/blockly/custom-blocks/overview) documentation.
+
+#### Installation
 
 
 #### Building
