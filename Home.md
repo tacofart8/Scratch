@@ -1,8 +1,14 @@
 #### Getting Started
+Scratch Blocks is designed to easily install into any web application. The blocks are 100% client-side, requiring no support from the server. There are no 3rd party dependencies (unless one wants to recompile the core). Everything is open source.
+
 Scratch Blocks is based on Google's [Blockly](https://developers.google.com/blockly) project. For a full API reference please see Google's [Custom Blocks](https://developers.google.com/blockly/custom-blocks/overview) documentation.
 
 #### Installation
 
+
+#### Configuration
+
+---
 
 #### Building
 Before sharing with users, we recommend that you build and compress Scratch Blocks. Building requires [Python 2](https://www.python.org/downloads/) and an internet connection as it uses Google's online [Closure Compiler](https://developers.google.com/closure/compiler/). Once you are ready, you can build by running the following in your console:
