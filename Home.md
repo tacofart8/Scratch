@@ -4,7 +4,9 @@ Scratch Blocks is designed to easily install into any web application. The block
 Scratch Blocks is based on Google's [Blockly](https://developers.google.com/blockly) project. For a full API reference please see Google's [Custom Blocks](https://developers.google.com/blockly/custom-blocks/overview) documentation.
 
 #### Installation
+First, download the source code from GitHub. As this project is quickly being updated we recommend you use [git](https://git-scm.org) but you are more than welcome to [download the code](https://github.com/LLK/scratch-blocks/archive/develop.zip) directly as well.
 
+Once you have the code, point your browser at `tests/horizontal_playground.html` and verify that blocks can be dragged around.
 
 #### Configuration
 <table>
