@@ -41,7 +41,7 @@ Scratch Blocks is based on Google's [Blockly](https://developers.google.com/bloc
     <tr>
         <td><code>zoom</code></td>
         <td><code>object</code></td>
-        <td>Configures zooming behavior. See [zoom API details](https://developers.google.com/blockly/installation/zoom).</td>
+        <td>Configures zooming behavior. See <a href="https://developers.google.com/blockly/installation/zoom">zoom API details</a>.</td>
     <tr>
 </table>
 
