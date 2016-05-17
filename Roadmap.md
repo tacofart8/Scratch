@@ -26,3 +26,4 @@
 - Add automated test coverage and styleguide enforcement from ESLint
 - Continuous integration (CI)
 - Additional documentation and examples
+- Stabilize API and begin tagging releases with Semver
