@@ -9,6 +9,8 @@ First, download the source code from GitHub. As this project is quickly being up
 Once you have the code, point your browser at `tests/horizontal_playground.html` and verify that blocks can be dragged around. In addition to being the "hello world" test for Scratch Blocks, the playgrounds are also useful for testing more advanced features including event handling, right-to-left (RTL), and stack highlighting.
 
 #### Configuration
+Configuration of the workspace is *mostly* the same between Blockly and Scratch Blocks but is subject to change as the project continues to develop. Below is a list of configuration options that we are likely to continue to support:
+
 <table>
     <tr>
         <td>Name</td>
