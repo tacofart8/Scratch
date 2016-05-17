@@ -6,7 +6,7 @@ Scratch Blocks is based on Google's [Blockly](https://developers.google.com/bloc
 #### Installation
 First, download the source code from GitHub. As this project is quickly being updated we recommend you use [git](https://git-scm.org) but you are more than welcome to [download the code](https://github.com/LLK/scratch-blocks/archive/develop.zip) directly as well.
 
-Once you have the code, point your browser at `tests/horizontal_playground.html` and verify that blocks can be dragged around.
+Once you have the code, point your browser at `tests/horizontal_playground.html` and verify that blocks can be dragged around. In addition to being the "hello world" test for Scratch Blocks, the playgrounds are also useful for testing more advanced features including event handling, right-to-left (RTL), and stack highlighting.
 
 #### Configuration
 <table>
